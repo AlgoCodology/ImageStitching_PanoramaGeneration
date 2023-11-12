@@ -1,0 +1,1 @@
+This mini-project showcases an attempt at classical image stitching which is based on traditional revolutionary concepts in Computer Vision like Harris Corner detection, SIFT feature detection and RANSAC (RANdom SAmple Consensus) based warping parameter estimation. The image stitching algorithm is applied to set of custom images to form panoramas.
